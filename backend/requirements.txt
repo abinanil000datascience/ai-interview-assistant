@@ -4,3 +4,6 @@ websockets
 python-dotenv
 PyPDF2
 python-multipart
+numpy
+httpx
+faster-whisper
