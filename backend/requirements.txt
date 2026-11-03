@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+websockets
+python-dotenv
+PyPDF2
+python-multipart
